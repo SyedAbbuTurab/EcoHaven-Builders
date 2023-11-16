@@ -1,0 +1,23 @@
+<Materials>
+    <Material>
+        <MaterialID>1</MaterialID>
+        <MaterialName>Nanomaterials</MaterialName>
+        <Quantity>2000</Quantity>
+        <Supplier>Nanotech Innovations</Supplier>
+        <UnitPrice>100.00</UnitPrice>
+    </Material>
+    <Material>
+        <MaterialID>2</MaterialID>
+        <MaterialName>Bioluminescent Organisms</MaterialName>
+        <Quantity>500</Quantity>
+        <Supplier>BioilluminaTech</Supplier>
+        <UnitPrice>50.00</UnitPrice>
+    </Material>
+    <Material>
+        <MaterialID>3</MaterialID>
+        <MaterialName>Electromagnetic Shielding</MaterialName>
+        <Quantity>1000</Quantity>
+        <Supplier>EMShield Co.</Supplier>
+        <UnitPrice>75.00</UnitPrice>
+    </Material>
+</Materials>

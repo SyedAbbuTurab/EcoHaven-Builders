@@ -1,0 +1,20 @@
+<CustomerProfiles>
+    <CustomerProfile>
+        <CustomerID>101</CustomerID>
+        <FirstName>Rebecca</FirstName>
+        <LastName>Jan</LastName>
+        <Email>rjan@gmail.com</Email>
+    </CustomerProfile>
+    <CustomerProfile>
+        <CustomerID>102</CustomerID>
+        <FirstName>Alice</FirstName>
+        <LastName>Mark</LastName>
+        <Email>amark@gmail.com</Email>
+    </CustomerProfile>
+    <CustomerProfile>
+        <CustomerID>103</CustomerID>
+        <FirstName>Jhon</FirstName>
+        <LastName>Dave</LastName>
+        <Email>jdave@gmail.com</Email>
+    </CustomerProfile>
+</CustomerProfiles>

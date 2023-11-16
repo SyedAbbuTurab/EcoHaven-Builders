@@ -1,0 +1,23 @@
+<Orders>
+    <Order>
+        <OrderID>1</OrderID>
+        <CustomerID>101</CustomerID>
+        <DesignID>1</DesignID>
+        <OrderDate>2023-10-15</OrderDate>
+        <OrderStatus>In Progress</OrderStatus>
+    </Order>
+    <Order>
+        <OrderID>2</OrderID>
+        <CustomerID>102</CustomerID>
+        <DesignID>2</DesignID>
+        <OrderDate>2023-10-20</OrderDate>
+        <OrderStatus>Completed</OrderStatus>
+    </Order>
+    <Order>
+        <OrderID>3</OrderID>
+        <CustomerID>103</CustomerID>
+        <DesignID>3</DesignID>
+        <OrderDate>2023-10-25</OrderDate>
+        <OrderStatus>In Progress</OrderStatus>
+    </Order>
+</Orders>

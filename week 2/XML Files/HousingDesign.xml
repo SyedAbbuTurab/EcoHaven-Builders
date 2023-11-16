@@ -1,0 +1,23 @@
+<Designs>
+    <Design>
+        <DesignID>1</DesignID>
+        <DesignName>Alpha Residence</DesignName>
+        <Architect>ArchitectX</Architect>
+        <DesignType>Green</DesignType>
+        <EstimatedCost>75000.00</EstimatedCost>
+    </Design>
+    <Design>
+        <DesignID>2</DesignID>
+        <DesignName>Beta Bungalow</DesignName>
+        <Architect>ArchitectY</Architect>
+        <DesignType>Modern</DesignType>
+        <EstimatedCost>90000.00</EstimatedCost>
+    </Design>
+    <Design>
+        <DesignID>3</DesignID>
+        <DesignName>Gamma Villa</DesignName>
+        <Architect>ArchitectZ</Architect>
+        <DesignType>Extraterrestrial</DesignType>
+        <EstimatedCost>120000.00</EstimatedCost>
+    </Design>
+</Designs>

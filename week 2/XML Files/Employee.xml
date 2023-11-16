@@ -1,0 +1,23 @@
+<Employees>
+    <Employee>
+        <EmployeeID>1</EmployeeID>
+        <FirstName>John</FirstName>
+        <LastName>Smith</LastName>
+        <Position>Architect</Position>
+        <Email>jsmith@ecohaven.com</Email>
+    </Employee>
+    <Employee>
+        <EmployeeID>2</EmployeeID>
+        <FirstName>Alice</FirstName>
+        <LastName>Johnson</LastName>
+        <Position>Materials Expert</Position>
+        <Email>ajhonson@ecohaven.com</Email>
+    </Employee>
+    <Employee>
+        <EmployeeID>3</EmployeeID>
+        <FirstName>David</FirstName>
+        <LastName>Anderson</LastName>
+        <Position>Customer Service Representative</Position>
+        <Email>danderson@ecohaven.com</Email>
+    </Employee>
+</Employees>
